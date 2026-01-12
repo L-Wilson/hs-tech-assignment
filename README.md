@@ -675,9 +675,9 @@ d) **Automated action triggers**
 
 ### Tools Used
 
-**Primary AI tool:** Claude (Anthropic) via Claude Code CLI
+**Primary AI tool:** Claude (Anthropic) and Claude Code CLI
 
-**Model:** Claude 3.5 Sonnet
+**Models:** Claude 4.5 Opus and 3.5 Sonnet
 
 **Tasks AI helped with (with much human intervention):**
 
@@ -708,13 +708,13 @@ d) **Automated action triggers**
 **Quality improvements:**
 
 - **Consultative depth:** AI helped me to focus less on code implementation and focus more intently on client needs and desired results
-- **Code consistency:** AI maintained consistent error handling patterns across all API endpoints, quick iteration for other changes
+- **Code consistency:** AI maintained consistent error handling patterns across all API endpoints, quick iteration for other code changes
 - **Documentation:** AI helped generate comprehensive docs that would have taken much longer to implement manually
-- 
+  
 ### Challenges Encountered
 
 - Much human-in-the-loop intervention was needed throughout the process - inconsistencies were generated in especially the business use cases that needed to be reconsidered.
-- AI often wants to be "too helpful", making things overly complex or long-winded, which can distract from the essentials. 
+- AI often wants to be "too helpful", making things overly complex or long-winded, which can distract from the essentials. Due to time constraints for this assignment I've left the README quite comprehensive, which might be a good talking point. 
 
 **Where human judgment was critical:**
 
